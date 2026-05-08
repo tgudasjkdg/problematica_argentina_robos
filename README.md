@@ -44,7 +44,7 @@ La plataforma puede utilizarse desde:
 
 ### Acceso
 
-1. Ingresar al sitio web principal.
+1. Ingresar al sitio web principal. [ https://tgudasjkdg.github.io/problematica_argentina_robos/ ]
 2. Acceder al panel de estadísticas.
 3. Seleccionar:
 
