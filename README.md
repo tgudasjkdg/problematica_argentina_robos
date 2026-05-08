@@ -75,7 +75,7 @@ La plataforma puede utilizarse desde:
 
 # Institución Responsable
 
-## Instituto de Estudios Urbanos y Seguridad Ciudadana
+## Instituto Nuestra Señora De Las Mercedes
 
 Proyecto académico y tecnológico orientado al análisis de problemáticas urbanas relacionadas con:
 
@@ -89,15 +89,15 @@ Proyecto académico y tecnológico orientado al análisis de problemáticas urba
 
 # Equipo de Desarrollo
 
-### Director del Proyecto
-
-Valentino Ramacciotti
-
 ### Desarrollo Web
 
-* Martín Maldonado
+* Valentino Ramacciotti
 * Ignacio Alanie
 * Patricio Poupeau
+* Benjamin Miranda
+* Facundo Esquinasy
+* Benjamin Aquin
+
 
 ### Área de Investigación
 
@@ -165,4 +165,6 @@ Correo institucional:
 
 Este proyecto tiene fines educativos, estadísticos y de concientización social.
 La información presentada debe utilizarse de manera responsable y ética.
+
+#  Taller Inteligencia Artificial
 
